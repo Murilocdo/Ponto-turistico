@@ -1,0 +1,42 @@
+body {
+background-color: #F5F4F0;
+}
+
+#titulo h4 {  
+  border: solid;
+  height: 30px;
+  width: 1120px;
+  box-sizing: border-box;
+  color: blue;
+}
+
+#titulo h1 {
+  border: solid;
+  height: 49px;
+  width: 1120px;
+  box-sizing: border-box;
+  color: blue;
+}
+
+#titulo img {
+  border: solid;
+  width: 1120px; 
+  box-sizing: border-box;
+  color: blue;
+}
+
+#titulo p {
+  border: solid;
+  width: 1120px;
+  box-sizing: border-box;
+  color: blue;
+  
+}
+
+
+main{
+  box-sizing: border-box;
+  border: solid;
+  width: 1120px;
+  border-color: red;
+}
