@@ -1,42 +1,192 @@
-body {
-background-color: #F5F4F0;
+
+:root{
+  font-family: "Open Sans", sans-serif;
 }
 
+
+/* body {
+background-color: #1E1E1E;
+background-size: cover;
+`} */
+
+main {
+  background-color:#F5F4F0 ;
+  width: 1280px;
+  padding: 80px;
+  padding-right: ;
+  margin: auto ;
+  border: solid;
+  box-sizing: border-box;
+
+
+  
+}
+  
 #titulo h4 {  
-  border: solid;
-  height: 30px;
+  padding-top: 88px;
+  /* padding-left: 80px; */
+  height: 22px;
   width: 1120px;
   box-sizing: border-box;
-  color: blue;
-}
-
-#titulo h1 {
-  border: solid;
-  height: 49px;
-  width: 1120px;
-  box-sizing: border-box;
-  color: blue;
-}
-
-#titulo img {
-  border: solid;
-  width: 1120px; 
-  box-sizing: border-box;
-  color: blue;
-}
-
-#titulo p {
-  border: solid;
-  width: 1120px;
-  box-sizing: border-box;
-  color: blue;
+  color: #E1624F;
   
 }
 
-
-main{
-  box-sizing: border-box;
-  border: solid;
+#titulo h1 {
+  padding-top: 8px;
+  padding-bottom:  40px;
+  /* padding-left: 80px; */
+  height: 49px;
   width: 1120px;
-  border-color: red;
+  box-sizing: border-box;
+  
 }
+
+#titulo img {
+  /* padding-left: 80px; */
+  padding-top: 40px;
+  width: 1120px; 
+  box-sizing: border-box;
+  height: 660px;
+  
+}
+
+#titulo p {
+ /* padding-left: 80px; */
+  width: 1120px;
+  box-sizing: border-box;
+  text-align: center;
+  padding-top: 24px;
+  padding-bottom: 40px;
+  
+  
+}
+
+/* #locais img{
+  box-sizing: border-box;
+  width: 1120px;
+  /* padding-top: 80px ; */
+  /* padding-bottom: 64px; */
+  
+
+#locais h4{ 
+color:#E1624F;
+height: 22px;
+ box-sizing: border-box;
+ width: 1120px;
+ padding-top: 40px;
+ padding-bottom: 8px;
+ /* padding-left: 80px; */
+}
+
+#locais h2{
+  height: 44px;
+  padding-top: 2px;
+  box-sizing: border-box;
+  width: 1120px;
+  /* padding-left: 80px; */
+}
+
+#locais p{
+  height: 88px;
+  width: 1120px;
+  box-sizing: border-box;
+ /* padding-left: 80px; */
+  
+  
+}
+#haedong img {
+  width: 1120px;
+  height: 350px;
+  padding-top: 64px;
+  box-sizing: border-box;
+  /* padding-left: 80px; */
+  
+}
+
+#haedong h3 {
+  height: 38px;
+  padding-top: 20px;
+  padding-bottom: 4px;
+  box-sizing: border-box;
+  /* padding-left: 80px; */
+
+}
+#haedong p {  
+  width: 1120px;
+  height: 55px;
+  padding-top: 4px;
+  box-sizing: border-box;
+  /* padding-left: 80px; */
+}
+
+#haedong b{ 
+width: 1120px;
+box-sizing: border-box;
+/* padding-left: 80px; */
+}
+
+#haedong li{
+  box-sizing: border-box;
+  color: blue;
+  /* padding-left: 80px; */
+  width: 1120px;
+  margin: auto;
+}
+
+#boemeo img{
+  width: 1120px;
+  height: 350px;
+  box-sizing: border-box;
+  padding-top: 38px;
+  padding-bottom: 20px;
+ /* padding-left: 80px; */
+  
+
+}
+
+#boemeo h3 {
+  height: 38px;
+  padding-bottom: 2px;
+  /* padding-left: 80px; */
+
+}
+
+#boemeo p {
+  width: 1120px;
+  box-sizing: border-box;
+  height: 55px;
+  /* padding-left: 80px; */
+}
+
+#boemeo li {
+  color: blue;
+  /* padding-left: 80px; */
+}
+
+#yongdung img {
+  width: 1120px;
+  box-sizing: border-box;
+  height: 350px;
+  padding-top: 20px;
+  /* padding-left: 80px; */
+
+}
+#yongdung #casais{
+  color: purple;
+}
+ #yongdung #familias {
+  color: pink;
+ }
+ #yongdung #orçamentos {
+  color: orange;
+ }
+
+ #desciption {
+  text-align: center;
+ }
+ 
+ footer {
+  text-align: center;
+  padding-top: 70px;
+ }
